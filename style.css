@@ -1,3 +1,10 @@
 body {
     background: blue;
   }
+
+
+  h1 {
+    color: firebrick;
+    text-align: center;
+    font-size: 100;
+  }
