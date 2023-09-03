@@ -1,5 +1,5 @@
 body {
-    background: blue;
+    background: black;
   }
 
 
@@ -7,4 +7,21 @@ body {
     color: firebrick;
     text-align: center;
     font-size: 100;
+  }
+
+  h2 {
+    text-align: center;
+    color: firebrick;
+  }
+
+  p {
+    text-align: center;
+    color: firebrick;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }

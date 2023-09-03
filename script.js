@@ -1,3 +1,3 @@
 const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScritp";
+h2.textContent = "Best Website Ever";
 document.querySelector("body").appendChild(h2);
